@@ -113,7 +113,7 @@ media = sumatoria / 100
 
 print(f"La media de los números ingresados es: {media}")
 
-"""
+
 
 # 10)
 
@@ -130,3 +130,5 @@ while numero > 0:
     numero = numero // 10
 
 print("El número invertido es:", numeroInvertido)
+
+"""
